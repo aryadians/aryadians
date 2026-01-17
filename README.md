@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/aryadians">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emailanda@example.com">
+  <a href="mailto:aryadian003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -81,9 +81,7 @@
 ## 🐍 My Contribution Grid
 
 <div align="center">
-  <img src="https://github-readme-contribution-snake.xiaoheiban.cn/4db33d72-e0c1-4043-9829-05a8f422896f.svg" alt="Snake animation" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aryadians&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryadians&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 <br/>
