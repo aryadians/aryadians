@@ -28,7 +28,6 @@
 
 ---
 
-
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Correctional Institution Management System (Sistem Digital Lapas)**.
@@ -42,7 +41,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,flutter,js,ts,react,html,css,tailwind,mysql,git,docker,postman,vscode,figma,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,flutter,js,ts,html,css,tailwind,mysql,git,docker,postman,vscode,figma,linux&theme=dark" />
 </div>
 
 ---
@@ -54,7 +53,6 @@
 </div>
 
 ---
-
 
 ### 🐍 Contribution Snake
 
@@ -79,15 +77,15 @@
   </table>
   
   <br/>
-  
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryadians&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
-
-<br/>
 
 ---
 
 ### ⚡ Recent Activity
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
