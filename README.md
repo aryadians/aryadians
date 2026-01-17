@@ -83,8 +83,6 @@
 
 ---
 
-### ⚡ Recent Activity
-
 <br/>
 
 <div align="center">
