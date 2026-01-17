@@ -30,29 +30,23 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
   <br/>
-
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
   <br/>
-
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
 </div>
 
 ---
@@ -61,7 +55,7 @@
 
 <div align="center">
   <a href="https://github.com/aryadians">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryadians&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryadians&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   </a>
   <a href="https://github.com/aryadians">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryadians&layout=compact&theme=tokyonight"/>
@@ -81,7 +75,7 @@
 ## 🐍 My Contribution Grid
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryadians&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryadians&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
