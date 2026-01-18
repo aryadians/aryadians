@@ -46,27 +46,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryadians&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="General Stats" />
-  
-  <br/><br/>
-
-  <table style="border: none; width: 100%;">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://streak-stats.demolab.com?user=aryadians&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryadians&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### ⚡ Random Joke
 
 <div align="center">
