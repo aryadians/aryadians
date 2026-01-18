@@ -46,10 +46,31 @@
 
 ---
 
-### ⏰ Coding Habits
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryadians&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryadians&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="General Stats" />
+  
+  <br/><br/>
+
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://streak-stats.demolab.com?user=aryadians&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryadians&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⚡ Random Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 ---
@@ -58,27 +79,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/aryadians/aryadians/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table style="border: none; width: 100%;">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryadians&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryadians&theme=tokyonight" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryadians&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
