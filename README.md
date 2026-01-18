@@ -49,7 +49,7 @@
 ### ⏰ Coding Habits
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryadians&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryadians&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 </div>
 
 ---
@@ -68,10 +68,10 @@
   <table style="border: none; width: 100%;">
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryadians&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryadians&theme=tokyonight&hide_border=true" alt="Streak Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryadians&theme=tokyonight" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryadians&theme=tokyonight" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -80,8 +80,6 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryadians&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
-
----
 
 <br/>
 
