@@ -8,10 +8,6 @@
 </div>
 
 <div align="center">
-  <p align="center">
-    🚀 <b>Software Engineer</b> from Indonesia, specializing in the <b>Laravel Ecosystem</b>.<br>
-    Currently focusing on <b>Digital Transformation</b> for public sectors (Correctional Institutions).
-  </p>
 
   <a href="https://linkedin.com/in/aryadians">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
