@@ -35,12 +35,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/aryadians">
-    <img src="https://github-readme-stats.vercel.app/api?username=aryadians&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="Arya's Stats" />
-  </a>
-  <a href="https://github.com/aryadians">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryadians&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" alt="Arya's Top Languages" />
-  </a>
   <br/>
   <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=aryadians&theme=tokyonight&hide_border=true" alt="Arya's Streak" />
@@ -56,9 +50,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <br/>
-  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-</div>
